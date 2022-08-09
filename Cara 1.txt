@@ -32,3 +32,6 @@ DEMO 😁:
 - Heroku Reverse Proxy: https://wahidin-proxy.herokuapp.com/ -> ga costum domain soalnya akun saya belum verified :v
 - vercel: https://blog.wahidin.eu.org/
 - Netlify: https://wahidin.netlify.app
+
+
+Sumber : https://www.facebook.com/story.php?story_fbid=pfbid057wpAYHFeTLyNDxzbQDxoo6aayHsWwaXVctYugoqSV64zykK7F13z7rSaW3FARRWl&id=100000063903598
